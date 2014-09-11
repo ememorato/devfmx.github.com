@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : devfmx
+      short_name : devfblog
     livefyre :
       site_id : 123
     intensedebate :
