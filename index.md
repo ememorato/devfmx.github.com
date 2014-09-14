@@ -1,25 +1,15 @@
 ---
 layout: page
-title: DevF blog
-tagline: La escuela de hackers hispanoparlantes
+title: Dev.F. blog
+tagline: La primera escuela de hackers de México y LatAm
 ---
 {% include JB/setup %}
 
     
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+>## Info/Noticias/Avisos sobre el Dev.F.
+> &nbsp;  
+>
+>Entérate de lo que está pasando dentro de la primera escuela de hackers en México y América Latina. Sigue en este blog nuestros avisos, noticias e información sobre el Dev.F. ¿Dudas? Escríbenos a info@devf.mx – y aplica HOY. :)
 
 
 <ul class="posts">

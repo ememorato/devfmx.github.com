@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : DevF blog
-tagline: El blog oficial de la escuela de hackers hispanoparlantes.
+title : Dev.F. blog
+tagline: El blog oficial de la primera escuela de hackers en México y LatAm.
 author :
-  name : DevF
+  name : Dev.F.
   email : hola@devf.mx
   github : devfmx
   twitter : devfmx
